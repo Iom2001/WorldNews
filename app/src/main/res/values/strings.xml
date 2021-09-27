@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">World News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="saved">Saved</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_time_format">yyyy-MM-dd\'T\'HH:mm:ss\'Z\'</string>
+    <string name="date_format">MMM d, yyyy</string>
+    <string name="time_format">HH:mm a</string>
+</resources>

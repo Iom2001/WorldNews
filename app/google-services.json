@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856835793434",
+    "project_id": "world-news-be748",
+    "storage_bucket": "world-news-be748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856835793434:android:188360d404273c255767a3",
+        "android_client_info": {
+          "package_name": "uz.creator.worldnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856835793434-gq1gf8rvjlkd83bf4b2l7ra505q86jed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_MVig3Lzcxr9AKWy-PIc-ey7737tgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856835793434-gq1gf8rvjlkd83bf4b2l7ra505q86jed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
